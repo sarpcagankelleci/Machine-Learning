@@ -1,4 +1,3 @@
-# Machine-Learning
 # Machine Learning Projects
 
 This repository contains various machine learning projects, each focusing on a specific algorithm or technique. The goal is to explore, implement, and analyze different machine learning methods using Python.
